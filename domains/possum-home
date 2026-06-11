@@ -1,0 +1,12 @@
+{
+    "owner": {
+        "username": "kstanyslaw",
+        "email": "k.stanyslaw@gmail.com"
+    },
+    "record": {
+        "NS": [
+            "dash.ns.cloudflare.com",
+            "vova.ns.cloudflare.com"
+        ]
+    }
+}
